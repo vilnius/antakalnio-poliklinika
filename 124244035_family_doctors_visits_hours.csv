@@ -1,1 +1,2 @@
-istaigos_kodas;data;gydytojo_ID;pirminiu_vizitu_trukme;pirminiu_vizitu_pacientu_skaicius;visu_vizitu_trukme;visu_pacientu_skaicius;darbo_laikas_nuo;darbo_laikas_iki;iraso_sukurimo_data
+Msg 9002, Level 17, State 4, Server MEDIS-SQL, Procedure MEDIS.dbo.x_Registraciju_laikai_savivaldybems_new, Line 255
+The transaction log for database 'tempdb' is full due to 'ACTIVE_TRANSACTION'.
